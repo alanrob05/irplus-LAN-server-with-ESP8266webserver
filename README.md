@@ -12,4 +12,4 @@ https://play.google.com/store/apps/details?id=net.binarymode.android.irpluslan&h
 
 IR led is on 4 (D2) by default
 
-Just add your SSID and password
+Just add your SSID and password on the arduino code
