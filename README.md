@@ -6,7 +6,7 @@ Voila
 Rather straight forward
 
 Works well with irplus LAN for Android </br>
-https://irplus-remote.github.io/# 
+https://irplus-remote.github.io/# </br>
 https://play.google.com/store/apps/details?id=net.binarymode.android.irpluslan&hl=fr
 
 
